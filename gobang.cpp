@@ -105,7 +105,6 @@ void playchess() {
     }
 }
 
-
 int main() {
     init();
     while (1) {
